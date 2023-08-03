@@ -1,0 +1,30 @@
+#view{
+    display: flex;
+    background: white;
+    width: 100%;
+    height: 100%;
+    margin-top: 40px;
+}
+#products{
+    width: 400px;
+    margin-top: 30px;
+    
+}
+#details{
+    width: 400px;
+    margin-top: 40px;
+}
+#p-name{
+    margin-top: 30px;
+}
+#price{
+    margin-top: 20px;
+}
+#discription{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+img{
+    width: 361px;
+    height: 255px;
+}
